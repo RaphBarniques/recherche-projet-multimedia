@@ -7,20 +7,20 @@ NDI (Network Device Interface) est une technologie développée par la compagnie
 
 ### Comment ça peut être utilisé
 - En studio
-  
-![ndi studio](https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/5086693b-13d9-4cc9-badb-ed089018abef)
+
+<img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/5086693b-13d9-4cc9-badb-ed089018abef" alt="drawing" width="500"/>
 
 -En studio virtuel (Cloud) :
 
-![cloud](https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/ff55d0d5-551e-4d5d-9ba6-22413b12f710)
+<img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/ff55d0d5-551e-4d5d-9ba6-22413b12f710" alt="drawing" width="500"/>
 
 -En entreprise : 
 
-![videocall](https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/6016e767-1d96-4c92-a65f-004aee90814a)
+<img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/6016e767-1d96-4c92-a65f-004aee90814a" alt="drawing" width="500"/>
 
 -En classe virtuelle
 
-![classe](https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/b9756a3b-3c39-498c-8c81-99314da8f3f0)
+<img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/b9756a3b-3c39-498c-8c81-99314da8f3f0" alt="drawing" width="500"/>
 
 ### Avec quoi est-ce compatible
 
