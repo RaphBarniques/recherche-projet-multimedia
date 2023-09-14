@@ -29,6 +29,7 @@ Logiciel (souvent par plugin):
 - Max
 - BirdDog
 - MimoLive
+- Dicaffeine (Pi)
 
 Équipements:
 - Caméras
