@@ -25,6 +25,7 @@ NDI (Network Device Interface) est une technologie développée par la compagnie
 ### Avec quoi est-ce compatible
 
 Logiciel (souvent par plugin):
+- NDI Core
 - OBS
 - Max
 - BirdDog
