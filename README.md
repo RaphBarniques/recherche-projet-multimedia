@@ -48,3 +48,25 @@ Le NDI vise à remplacer d'autres options tel que le HDMI et le SDI Pour se fair
 - Plusieurs *feeds* dans 1 seul cable
 - Permet aussi de transmettre par le même cable d'autres données comme les contrôles de la caméra, les *timecodes*, et les *taly lights*
 
+## Présentation de concept
+
+### Le concept
+Le projet plonge l'interacteur dans une expérience ludique et éducative sur l'expérience des internautes en situation de handicap par un jeu de puzzle qui a pour but de mettre en lumière l'importance de l'accessibilité universelle.
+
+### Inspirations
+[How a Blind Person uses a Website, a Demonstration and Live Q and A](https://www.youtube.com/watch?v=X88AHJVkwoM)
+
+[La bibliothèque Ludogiciel](https://ludociels-pour-tous--repertoire-jeux-accessibles.pory.app/)
+
+[Lost in Blindness sur Steam](https://store.steampowered.com/app/1564150/Lost_in_Blindness/)
+
+### L'intégration
+Utilisation du logiciel gratuit et open-source (NVDA)[https://www.nvaccess.org/get-help/]. Création d'un site web avec le stack standard. Disponible en ligne?
+
+<img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/9d5bd19e-9371-439f-8c45-aaf216d60ce2" alt="drawing" width="500"/>
+
+
+### Les défis
+- Appropriation de NVDA
+- Pas mal de rercherches
+- Éviter que l'intéracateur soit coincé
