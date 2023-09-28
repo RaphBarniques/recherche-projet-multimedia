@@ -61,7 +61,7 @@ Le projet plonge l'interacteur dans une expérience ludique et éducative sur l'
 [Lost in Blindness sur Steam](https://store.steampowered.com/app/1564150/Lost_in_Blindness/)
 
 ### L'intégration
-Utilisation du logiciel gratuit et open-source (NVDA)[https://www.nvaccess.org/get-help/]. Création d'un site web avec le stack standard. Disponible en ligne?
+Utilisation du logiciel gratuit et open-source [NVDA](https://www.nvaccess.org/get-help/). Création d'un site web avec le stack standard. Disponible en ligne?
 
 <img src="https://github.com/RaphBarniques/recherche-projet-multimedia/assets/94623626/9d5bd19e-9371-439f-8c45-aaf216d60ce2" alt="drawing" width="500"/>
 
