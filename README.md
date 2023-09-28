@@ -51,7 +51,7 @@ Le NDI vise à remplacer d'autres options tel que le HDMI et le SDI Pour se fair
 ## Présentation de concept
 
 ### Le concept
-Le projet plonge l'interacteur dans une expérience ludique et éducative sur l'expérience des internautes en situation de handicap par un jeu de puzzle qui a pour but de mettre en lumière l'importance de l'accessibilité universelle sur le web.
+Le projet plonge l'interacteur dans une expérience ludique et éducative sur l'expérience des internautes en situation de handicap par un jeu de puzzle qui a pour but de mettre en lumière l'importance de l'**accessibilité universelle** sur le web.
 
 ### Inspirations
 [How a Blind Person uses a Website, a Demonstration and Live Q and A](https://www.youtube.com/watch?v=X88AHJVkwoM)
